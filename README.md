@@ -1,12 +1,18 @@
 # Aplicativo Android Jogo cara ou coroa
-Aplicativo fictício feito com o objetivo de treinar habilidades aprendidas como :
+Aplicativo Jogo Cara ou Coroa fictício feito com o objetivo de treinar habilidades aprendidas como :
 - Interface
 - captura de cliques do usuário
 - Constraints de componentes
 - Geração aleatória de resultados
+- Passagem de dados entre activitys
+- Desempilhamento de Activity
 
 
 ## Exemplo de uso
+![tela1CaraOuCoroa](https://user-images.githubusercontent.com/50465758/61343319-ae1d7a80-a823-11e9-8ff2-3e5c0297dfc1.PNG)
+![tela2CaraOuCoroa](https://user-images.githubusercontent.com/50465758/61343344-c55c6800-a823-11e9-9c2e-1eb97d72187c.PNG)
+![tela3CaraOuCoroa](https://user-images.githubusercontent.com/50465758/61343360-d4431a80-a823-11e9-9980-495ffceb8b52.PNG)
+
 
 
 
