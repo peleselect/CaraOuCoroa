@@ -12,7 +12,8 @@ Aplicativo fictício feito com o objetivo de treinar habilidades aprendidas como
 
 ## Histórico de lançamentos
 
-* 0.0.1
+* 0.0.1 Interface do jogo
+* 0.0.2 Lógica do Jogo
 
 
 ## Conheça minhas Skills
