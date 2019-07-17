@@ -13,9 +13,9 @@ Aplicativo fictício feito com o objetivo de treinar habilidades aprendidas como
 ## Histórico de lançamentos
 
 * 0.0.1 
-     * MUDANÇA: Interface do jogo
+     * MUDANÇA: Interface do jogo implementada
 * 0.0.2 
-     * MUDANÇA: Lógica do Jogo (Commit final)
+     * MUDANÇA: Lógica do Jogo implementada (Commit final)
 
 
 ## Conheça minhas Skills
