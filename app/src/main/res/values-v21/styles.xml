@@ -10,21 +10,5 @@
         <item name="android:statusBarColor">@color/BarColorApp</item>
     </style>
 
-    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar" tools:ignore="DuplicateDefinition">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:colorBackground">@color/BackgroudApp</item>
-        <item name="android:statusBarColor">@color/BarColorApp</item>
-    </style>
-
-    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar" tools:ignore="DuplicateDefinition">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:colorBackground">@color/BackgroudApp</item>
-        <item name="android:statusBarColor">@color/BarColorApp</item>
-    </style>
+   
 </resources>
